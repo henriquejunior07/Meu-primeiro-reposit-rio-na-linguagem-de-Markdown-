@@ -1,4 +1,4 @@
-# 🚀 E,aí me chamo Henrique!
+.# 🚀 E,aí me chamo Henrique!
 
 Seja bem-vindo ao meu repositório de estudos! Aqui sera o espaço onde registro a minha evolução, meus códigos e projetos prático. Estou no início da minha jornada na tecnologia, focado em me tornar um desenvolvedor preparado para os desafios do mercado.
 
@@ -24,9 +24,6 @@ Aqui está o que venho utilizando e praticando no momento:
 
 ---
 
-## 📂 Projetos & Práticas
-
-> 💡 *“Nenhum desenvolvedor cresce sozinho.”* – Este espaço será usado para projetos em grupo, desafios de código e testes de arquitetura Back-end.
 
 ---
 
